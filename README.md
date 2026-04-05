@@ -36,7 +36,7 @@ The project was developed in the following stages:
 - Generated charts to visualize insights.  
 
 **Example: Monthly Sales Trend**
-![Monthly Sales Trend](Monthly%20Sales%20Trend.png)
+![Monthly Sales Trend](Monthly%20sales%20trend.png)
 
 ### 5. Report Generation
 - Automated **Excel report** creation (`Retail_Report.xlsx`) using Python (`openpyxl`).  
